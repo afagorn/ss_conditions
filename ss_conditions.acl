@@ -24,6 +24,7 @@
 (?:^|\.)agents\.media$
 (?:^|\.)agentura\.ru$
 (?:^|\.)ajay\.app$
+(?:^|\.)amdm\.ru$
 (?:^|\.)amedia\.vip$
 (?:^|\.)amnezia\.org$
 ^aws\.amazon\.com$
@@ -88,6 +89,8 @@
 (?:^|\.)crocoblock\.com$
 (?:^|\.)cropp\.com$
 (?:^|\.)currenttime\.tv$
+(?:^|\.)cursor\.com$
+(?:^|\.)cursor\.sh$
 (?:^|\.)cvedetails\.com$
 (?:^|\.)cyprus-mail\.com$
 (?:^|\.)cyprustimes\.com$
@@ -190,6 +193,7 @@
 ^play\.google\.com$
 (?:^|\.)google\.dev$
 (?:^|\.)googleapis\.com$
+(?:^|\.)googleusercontent\.com$
 (?:^|\.)googlevideo\.com$
 (?:^|\.)grani\.ru$
 (?:^|\.)graty\.me$
@@ -435,6 +439,7 @@
 (?:^|\.)svtv\.org$
 (?:^|\.)syg\.ma$
 (?:^|\.)symfony\.com$
+(?:^|\.)symfonycasts\.com$
 (?:^|\.)t\.co$
 (?:^|\.)t-ru\.org$
 (?:^|\.)tayga\.info$
@@ -457,6 +462,7 @@
 (?:^|\.)top-fon\.com$
 (?:^|\.)torrentgalaxy\.to$
 (?:^|\.)torproject\.org$
+(?:^|\.)trace\.moe$
 (?:^|\.)turantoday\.com$
 (?:^|\.)tv2\.today$
 (?:^|\.)tvfreedom\.io$
